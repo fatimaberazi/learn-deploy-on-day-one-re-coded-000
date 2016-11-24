@@ -22,6 +22,10 @@
   font-family: 'GothamPro-Light';
   src: url('../assets/fonts/GothamPro-Light.ttf') format('truetype');
 }
+@font-face {
+  font-family: 'GothamPro-Light';
+  src: url('../assets/fonts/GothamPro-Light.ttf') format('truetype');
+}
 
 @font-face {
   font-family: 'GothamPro-LightItalic';

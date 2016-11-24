@@ -160,11 +160,15 @@ a:visited {
 #diane-vu-cover {
   background-image: url("../assets/img/diane-vu-cover.jpg");
 }
-
+#Fatimas-Berazi-card {
+  background-image: url("../assets/img/4dba0964-cb46-4e9b-8818-facefc553370.jpg");
+}
 #diane-vu-card {
   background-image: url("../assets/img/diane-vu.jpg");
 }
-
+#Fatimas-Berazi-cover{
+  background-image: url("../assets/img/cover photo.jpg");
+}
 .view-profile-div {
   position: absolute;
   bottom: 0;
